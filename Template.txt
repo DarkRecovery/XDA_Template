@@ -92,7 +92,7 @@ English
 
 
 
-[B][U]Contributors[/U][/B]
+[B][U][SIZE="4"]Contributors[/SIZE][/U][/B]
 *Maintainer name*
 [B]Source Code:[/B] [URL="https://github.com/DarkRecovery"]https://github.com/DarkRecovery[/URL]
 [B]Device Source:[/B]: [URL="https://github.com/DarkRecovery"]https://github.com/DarkRecovery[/URL]
@@ -100,7 +100,7 @@ English
 [B]Recovery Version:[/B] 3.2.1.x
 [B]Based On:[/B] TWRP
 
-[B][U]Version Information[/U][/B]
+[B][U][SIZE="4"]Version Information[/SIZE][/U][/B]
 [B]Status:[/B] Stable
 [B]Stable Release Date:[/B] xxxx-xx-xx
 
