@@ -104,5 +104,5 @@ English
 [B]Status:[/B] Stable
 [B]Stable Release Date:[/B] xxxx-xx-xx
 
-[B]Created[/B] xxxx-xx-xx
-[B]Last Updated[/B] xxxx-xx-xx[/SIZE]
+[B]Created:[/B] xxxx-xx-xx
+[B]Last Updated:[/B] xxxx-xx-xx[/SIZE]
