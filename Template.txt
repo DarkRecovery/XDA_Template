@@ -32,12 +32,7 @@ Dark Recovery Contains some Extra tools Which can be found at Advanced > Tools &
 [/LIST][/CODE]
 
 
-[COLOR="Lime"][SIZE="6"][FONT="Georgia"][B]-: [U]About TWRP[/U] :-[/B][/FONT][/SIZE][/COLOR]
-
-
-This is a modded TWRP of Official TWRP V 3.2.1-0.
-
-[B][SIZE="6"]Language Supports:-[/SIZE] [/B]
+[B][SIZE="6"]-:[U] Language Supports[/U] :-[/SIZE] [/B]
 English
 
 
@@ -60,7 +55,7 @@ English
 [COLOR="Magenta"][SIZE="6"][FONT="Georgia"][B]-: [U]Downloads[/U] :-[/B][/FONT][/SIZE][/COLOR]
 
 
-[SIZE="6"][B][U]-: [COLOR="Blue"]How To Flash [/COLOR]:-[/U][/B][/SIZE]
+[SIZE="6"][B]-: [COLOR="Blue"][U]How To Flash[/U] [/COLOR]:-[/B][/SIZE]
 
 [CODE][LIST]
 [*]Download & Place in your Storage.
@@ -70,7 +65,7 @@ English
 [/LIST][/CODE]
 
 
-[U][SIZE=6][B][COLOR=#2ba851]Important Links[/COLOR][/B][/SIZE][/U]
+[SIZE=6][B][COLOR=#2ba851][U]Important Links[/U][/COLOR][/B][/SIZE]
 [IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/github.png?raw=true[/IMG]
 [B][URL="https://github.com/DarkRecovery"]Source[/URL][/B]
 [IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/tel.png?raw=true[/IMG]
