@@ -13,7 +13,7 @@
  [/CODE]
  
 
-[COLOR="Blue"][SIZE="6"][B][FONT="Georgia"]-: [U]Features[/U] :-[/FONT][/B][/SIZE][/COLOR]
+[COLOR="Blue"][SIZE="6"][B][FONT="Georgia"]-: Features :-[/FONT][/B][/SIZE][/COLOR]
 
 
 Dark Recovery Contains some Extra tools Which can be found at Advanced > Tools & Extra Tools.
@@ -32,11 +32,11 @@ Dark Recovery Contains some Extra tools Which can be found at Advanced > Tools &
 [/LIST][/CODE]
 
 
-[B][SIZE="6"]-:[U] Language Supports[/U] :-[/SIZE] [/B]
+[B][SIZE="6"]-: Language Supports :-[/SIZE] [/B]
 English
 
 
-[COLOR="Purple"][SIZE="6"][FONT="Georgia"][B]-: [U]Credits[/U] :-[/B][/FONT][/SIZE][/COLOR]
+[COLOR="Purple"][SIZE="6"][FONT="Georgia"][B]-: Credits :-[/B][/FONT][/SIZE][/COLOR]
 
  [CODE][LIST]
 [*][MENTION=5247964][B]G.M.L[/B][/MENTION] - For themes
@@ -52,20 +52,23 @@ English
 [/LIST][/CODE]
 
 
-[COLOR="Magenta"][SIZE="6"][FONT="Georgia"][B]-: [U]Downloads[/U] :-[/B][/FONT][/SIZE][/COLOR]
+[COLOR="Magenta"][SIZE="6"][FONT="Georgia"][B]-: Downloads :-[/B][/FONT][/SIZE][/COLOR]
 
 
-[SIZE="6"][B]-: [COLOR="Blue"][U]How To Flash[/U] [/COLOR]:-[/B][/SIZE]
+[SIZE="6"][B][COLOR="Blue"]-: How To Flash :-[/COLOR][/B][/SIZE]
 
 [CODE][LIST]
 [*]Download & Place in your Storage.
 [*]Boot into Your Current Recovery.
-[*]Flash "DarkRecovery_××××××××.zip"
-[*]Wait .... It will automatically rebooted into Dark Recovery.
+[*] Backup Your Current Recovery.(For Safety Purposes:p)
+[*]Flash "DarkRecovery_××××××××.zip".
+[*]Wait until the Flashing Complete.
+[*]It will automatically reboot into Dark Recovery.
+[*]Now Enjoy.. :fingers-crossed:
 [/LIST][/CODE]
 
 
-[SIZE=6][B][COLOR=#2ba851][U]Important Links[/U][/COLOR][/B][/SIZE]
+[SIZE=6][B][COLOR=#2ba851]-: Important Links :-[/COLOR][/B][/SIZE]
 [IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/github.png?raw=true[/IMG]
 [B][URL="https://github.com/DarkRecovery"]Source[/URL][/B]
 [IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/tel.png?raw=true[/IMG]
