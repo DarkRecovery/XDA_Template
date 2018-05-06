@@ -1,1 +1,97 @@
-Initial
+[SIZE="3"][CENTER][IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/Banner.png?raw=true[/IMG]
+
+
+[SIZE="6"][COLOR="Black"][B][FONT="Georgia"][U]Dark Recovery Project[/U][/FONT][/B]
+[/COLOR][/SIZE]
+
+
+
+[CODE]
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+ [/CODE]
+ 
+
+[COLOR="Blue"][SIZE="6"][B][FONT="Georgia"]-: [U]Features[/U] :-[/FONT][/B][/SIZE][/COLOR]
+
+
+Dark Recovery Contains some Extra tools Which can be found at Advanced > Tools & Extra Tools.
+
+[CODE][LIST]
+[*]Built-in superSU Installer & Uninstaller.
+[*]Build-in Magisk Installer & Uninstaller.
+[*]Build-in Dm-verity Disabler.
+[*]Lockscreen Password/Pin Remover.
+[*]App Deleter.
+[*]HAL3 Enabler & Disabler.
+[*]Ramdisk Cleaner.
+[*]Built-in Navbar Enabler & Disabler.
+[*]Aroma File Managaer
+[*]Substratum Overlay Remover.
+[/LIST][/CODE]
+
+
+[COLOR="Lime"][SIZE="6"][FONT="Georgia"][B]-: [U]About TWRP[/U] :-[/B][/FONT][/SIZE][/COLOR]
+
+
+This is a modded TWRP of Official TWRP V 3.2.1-0.
+
+[B][SIZE="6"]Language Supports:-[/SIZE] [/B]
+English
+
+
+[COLOR="Purple"][SIZE="6"][FONT="Georgia"][B]-: [U]Credits[/U] :-[/B][/FONT][/SIZE][/COLOR]
+
+ [CODE][LIST]
+[*][MENTION=5247964][B]G.M.L[/B][/MENTION] - For themes
+[*] [B]PitchBlack Team[/B] - For  Pitchblack TWRP ( [URL="https://github.com/PitchBlackTWRP"]Source[/URL] )
+[*] [MENTION=631273][B]Chainfire[/B][/MENTION] - For SuperSU ( [URL="https://forum.xda-developers.com/apps/supersu/stable-2016-09-01supersu-v2-78-release-t3452703"]Original Thread[/URL] )
+[*] [MENTION=4470081][B]topjohnwu[/B][/MENTION] - For Magisk ( [URL="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"]Original Thread[/URL] )
+[*] [B]Redwolf Team[/B] - For  Redwolf TWRP ( [URL="https://github.com/RedWolfRecovery"]Source[/URL] )
+[*] [MENTION=5672995][B]jcadduono[/B][/MENTION] - For Lazyflasher ( [URL="https://forum.xda-developers.com/android/software-hacking/zip-lazyflasher-tool-flashing-custom-t3549210"]Original Thread[/URL])
+[*] [B]THE_pirate_predator[/B] - App Deleter ( [URL="https://forum.xda-developers.com/showthread.php?t=2632355"]Original Thread[/URL] )
+[*] [MENTION=4596175][B]helmiau[/B][/MENTION] - Cam2API Enabler(HAL3)
+[*] [MENTION=232090][B]Magua[/B][/MENTION] - Password Remover
+[*] [MENTION=402300][B]amarullz[/B][/MENTION] - Aroma File Manager
+[/LIST][/CODE]
+
+
+[COLOR="Magenta"][SIZE="6"][FONT="Georgia"][B]-: [U]Downloads[/U] :-[/B][/FONT][/SIZE][/COLOR]
+
+
+[SIZE="6"][B][U]-: [COLOR="Blue"]How To Flash [/COLOR]:-[/U][/B][/SIZE]
+
+[CODE][LIST]
+[*]Download & Place in your Storage.
+[*]Boot into Your Current Recovery.
+[*]Flash "DarkRecovery_××××××××.zip"
+[*]Wait .... It will automatically rebooted into Dark Recovery.
+[/LIST][/CODE]
+
+
+[U][SIZE=6][B][COLOR=#2ba851]Important Links[/COLOR][/B][/SIZE][/U]
+[IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/github.png?raw=true[/IMG]
+[B][URL="https://github.com/DarkRecovery"]Source[/URL][/B]
+[IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/tel.png?raw=true[/IMG]
+[B][URL="https://t.me/Darkrecovery"]Telegram Group[/URL][/B]
+[B][URL="https://t.me/worldofdarkstar"]Telegram Channel[/URL][/B][/CENTER]
+
+
+[B][U][SIZE="6"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE=3][B]Dark Recovery For *Your Device*[/B][/SIZE]
+
+[B][U]Contributors[/U][/B]
+*Maintainer name*
+[B]Source Code:[/B] [URL="https://github.com/DarkRecovery"]https://github.com/DarkRecovery[/URL]
+[B]Device Source:[/B]: [URL="https://github.com/DarkRecovery"]https://github.com/DarkRecovery[/URL]
+
+[B]Recovery Version:[/B] 3.2.1.x
+[B]Based On:[/B] TWRP
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Stable
+[B]Stable Release Date:[/B] xxxx-xx-xx
+
+[B]Created[/B] xxxx-xx-xx
+[B]Last Updated[/B] xxxx-xx-xx[/SIZE]
