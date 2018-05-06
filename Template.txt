@@ -56,15 +56,16 @@ English
  [CODE][LIST]
 [*][MENTION=5247964][B]G.M.L[/B][/MENTION] - For themes
 [*] [B]PitchBlack Team[/B] - For  Pitchblack TWRP ( [URL="https://github.com/PitchBlackTWRP"]Source[/URL] )
-[*] [MENTION=631273][B]Chainfire[/B][/MENTION] - For SuperSU ( [URL="https://forum.xda-developers.com/apps/supersu/stable-2016-09-01supersu-v2-78-release-t3452703"]Original Thread[/URL] )
-[*] [MENTION=4470081][B]topjohnwu[/B][/MENTION] - For Magisk ( [URL="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"]Original Thread[/URL] )
+[*] [MENTION=631273][B]Chainfire[/B][/MENTION] - For SuperSU ( [URL="https://forum.xda-developers.com/apps/supersu/stable-2016-09-01supersu-v2-78-release-t3452703"]Source[/URL] )
+[*] [MENTION=4470081][B]topjohnwu[/B][/MENTION] - For Magisk ( [URL="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"]Source[/URL] )
 [*] [B]Redwolf Team[/B] - For  Redwolf TWRP ( [URL="https://github.com/RedWolfRecovery"]Source[/URL] )
-[*] [MENTION=5672995][B]jcadduono[/B][/MENTION] - For Lazyflasher ( [URL="https://forum.xda-developers.com/android/software-hacking/zip-lazyflasher-tool-flashing-custom-t3549210"]Original Thread[/URL])
-[*] [B]THE_pirate_predator[/B] - App Deleter ( [URL="https://forum.xda-developers.com/showthread.php?t=2632355"]Original Thread[/URL] )
+[*] [MENTION=5672995][B]jcadduono[/B][/MENTION] - For Lazyflasher ( [URL="https://forum.xda-developers.com/android/software-hacking/zip-lazyflasher-tool-flashing-custom-t3549210"]Source[/URL])
+[*] [B]THE_pirate_predator[/B] - App Deleter ( [URL="https://forum.xda-developers.com/showthread.php?t=2632355"]Source[/URL] )
 [*] [MENTION=4596175][B]helmiau[/B][/MENTION] - Cam2API Enabler(HAL3)
 [*] [MENTION=232090][B]Magua[/B][/MENTION] - Password Remover
-[*] [MENTION=402300][B]amarullz[/B][/MENTION] - Aroma File Manager
+[*] [MENTION=402300][B]amarullz[/B][/MENTION] - Aroma File Manager ( [URL="https://forum.xda-developers.com/showthread.php?t=1646108"]Source[/URL] )
 [/LIST][/CODE]
+
 
 
 [COLOR="Magenta"][SIZE="6"][FONT="Georgia"][B]-: Downloads :-[/B][/FONT][/SIZE][/COLOR]
