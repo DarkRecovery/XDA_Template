@@ -48,7 +48,11 @@ Dark Recovery Contains some Extra tools Which can be found at Advanced > Tools &
 
 
 [B][SIZE="6"]-: Language Supports :-[/SIZE] [/B]
-English
+[CODE][LIST]
+[*]English
+[/LIST][/CODE]
+ 
+Wanna Help in Translation Please Contact [URL="http://t.me/Darkstar085"]Here[/URL]
 
 
 [COLOR="Purple"][SIZE="6"][FONT="Georgia"][B]-: Credits :-[/B][/FONT][/SIZE][/COLOR]
