@@ -44,6 +44,7 @@ Dark Recovery Contains some Extra tools Which can be found at Advanced > Tools &
 
 
 [IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/languages.png[/IMG]
+
 [CODE][LIST]
 [*]English
 [/LIST][/CODE]
@@ -71,7 +72,8 @@ Wanna Help in Translation Please Contact [URL="http://t.me/Darkstar085"]Here[/UR
 [IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/download.png[/IMG]
 
 
-[SIZE="6"][B][COLOR="Blue"]-: How To Flash :-[/COLOR][/B][/SIZE]
+
+[IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/procedure.png[/IMG]
 
 [CODE][LIST]
 [*]Download & Place in your Storage.
