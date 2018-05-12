@@ -1,8 +1,6 @@
-[SIZE="3"][CENTER][IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/Banner.png?raw=true[/IMG]
+[SIZE="3"][CENTER][IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/logo.png[/IMG]
 
 
-[SIZE="6"][COLOR="Black"][B][FONT="Georgia"][U]Dark Recovery Project[/U][/FONT][/B]
-[/COLOR][/SIZE]
 
 
 
@@ -28,7 +26,7 @@
  [/CODE]
  
 
-[COLOR="Blue"][SIZE="6"][B][FONT="Georgia"]-: Features :-[/FONT][/B][/SIZE][/COLOR]
+[CENTER][IMG]https://github.com/DarkRecovery/XDA_Template/blob/dr/Images/about.png[/IMG]
 
 
 Dark Recovery Contains some Extra tools Which can be found at Advanced > Tools & Extra Tools.
